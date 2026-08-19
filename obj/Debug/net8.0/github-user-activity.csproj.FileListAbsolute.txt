@@ -11,3 +11,4 @@
 /run/media/nlphucthnh/StudyWork/Study/Code/Net_Project/github-user-activity/obj/Debug/net8.0/github-user-activity.pdb
 /run/media/nlphucthnh/StudyWork/Study/Code/Net_Project/github-user-activity/obj/Debug/net8.0/github-user-activity.genruntimeconfig.cache
 /run/media/nlphucthnh/StudyWork/Study/Code/Net_Project/github-user-activity/obj/Debug/net8.0/ref/github-user-activity.dll
+/run/media/nlphucthnh/StudyWork/Study/Code/Net_Project/github-user-activity/obj/Debug/net8.0/github-user-activity.sourcelink.json
