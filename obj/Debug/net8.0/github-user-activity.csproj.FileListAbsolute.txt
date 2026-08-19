@@ -1,0 +1,13 @@
+/run/media/nlphucthnh/StudyWork/Study/Code/Net_Project/github-user-activity/bin/Debug/net8.0/github-user-activity.deps.json
+/run/media/nlphucthnh/StudyWork/Study/Code/Net_Project/github-user-activity/bin/Debug/net8.0/github-user-activity.runtimeconfig.json
+/run/media/nlphucthnh/StudyWork/Study/Code/Net_Project/github-user-activity/bin/Debug/net8.0/github-user-activity.dll
+/run/media/nlphucthnh/StudyWork/Study/Code/Net_Project/github-user-activity/bin/Debug/net8.0/github-user-activity.pdb
+/run/media/nlphucthnh/StudyWork/Study/Code/Net_Project/github-user-activity/obj/Debug/net8.0/github-user-activity.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/nlphucthnh/StudyWork/Study/Code/Net_Project/github-user-activity/obj/Debug/net8.0/github-user-activity.AssemblyInfoInputs.cache
+/run/media/nlphucthnh/StudyWork/Study/Code/Net_Project/github-user-activity/obj/Debug/net8.0/github-user-activity.AssemblyInfo.cs
+/run/media/nlphucthnh/StudyWork/Study/Code/Net_Project/github-user-activity/obj/Debug/net8.0/github-user-activity.csproj.CoreCompileInputs.cache
+/run/media/nlphucthnh/StudyWork/Study/Code/Net_Project/github-user-activity/obj/Debug/net8.0/github-user-activity.dll
+/run/media/nlphucthnh/StudyWork/Study/Code/Net_Project/github-user-activity/obj/Debug/net8.0/refint/github-user-activity.dll
+/run/media/nlphucthnh/StudyWork/Study/Code/Net_Project/github-user-activity/obj/Debug/net8.0/github-user-activity.pdb
+/run/media/nlphucthnh/StudyWork/Study/Code/Net_Project/github-user-activity/obj/Debug/net8.0/github-user-activity.genruntimeconfig.cache
+/run/media/nlphucthnh/StudyWork/Study/Code/Net_Project/github-user-activity/obj/Debug/net8.0/ref/github-user-activity.dll

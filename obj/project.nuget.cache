@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "waoCEZ+J2Uk/hwmujy0/R7zc0MVbPHuK/pCsWX3DHWmRMOFjVY9LXvh5PFHnoJnwCXjR7LvDoT+x844bDQkVog==",
+  "success": true,
+  "projectFilePath": "/run/media/nlphucthnh/StudyWork/Study/Code/Net_Project/github-user-activity/github-user-activity.csproj",
+  "expectedPackageFiles": [
+    "/home/thnh/.nuget/packages/microsoft.netcore.app.ref/8.0.29/microsoft.netcore.app.ref.8.0.29.nupkg.sha512",
+    "/home/thnh/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.29/microsoft.aspnetcore.app.ref.8.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
